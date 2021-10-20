@@ -1,0 +1,7 @@
+#Wed Oct 20 15:53:26 ICT 2021
+base.1=D\:\\Kuliah\\Matkul\\Semester 5\\Android\\Project\\project\\Rental-Mobil\\RentalMobil\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Kuliah\\Matkul\\Semester 5\\Android\\Project\\project\\Rental-Mobil\\RentalMobil\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
